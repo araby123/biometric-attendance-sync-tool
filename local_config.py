@@ -7,7 +7,7 @@ ERPNEXT_URL = 'https://5drs.erpfort.com'
 
 # operational configs
 PULL_FREQUENCY = 240 # in minutes
-LOGS_DIRECTORY = 'logs' # logs of this script is stored in this directory
+LOGS_DIRECTORY = '/logs' # logs of this script is stored in this directory
 IMPORT_START_DATE = 20240101 # format: '20190501'
 
 # Biometric device configs (all keys mandatory)
